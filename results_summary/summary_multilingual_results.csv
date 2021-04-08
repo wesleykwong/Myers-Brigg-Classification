@@ -1,0 +1,5 @@
+,Model,Data,Number of Samples,At Least 1 Match,At Least 2 Matches,At Least 3 Matches,Perfect Match,Average Match
+0,CNN,Train,80000,100.0,76.19,40.12,17.99,52.52
+1,CNN,Test,20000,100.0,74.63,36.33,13.3,49.65
+2,BERT,Train,80000,100.0,91.25,69.07,45.66,74.87
+3,BERT,Test,20000,100.0,85.26,53.89,25.5,63.08

@@ -1,0 +1,5 @@
+,Model,Data,At Least 1 Match,At Least 2 Matches,At Least 3 Matches,Perfect Match,Average Match
+0,Monolingual,Train,0.0,17.7,32.2,32.0,25.5
+1,Monolingual,Test,0.0,11.7,17.6,10.5,13.6
+2,Multilingual,Train,0.0,15.1,29.0,27.7,22.4
+3,Multilingual,Test,0.0,10.6,17.6,12.2,13.4
